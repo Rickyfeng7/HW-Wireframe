@@ -1,8 +1,5 @@
 # HW-Wireframe
 
-build a react version of mongo news.
-
-
 ### Technologe used
 
 Just HTML
