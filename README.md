@@ -1,6 +1,6 @@
 # HW-Wireframe
 
-### Technologe used
+### Technology used
 
 Just HTML
 
